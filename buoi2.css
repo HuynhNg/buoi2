@@ -1,0 +1,76 @@
+body{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.red{
+    color: red; 
+    margin-bottom: 0px;
+}
+.div1{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 0px;
+    margin: 0px;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    box-sizing: border-box;
+}
+.divTitle{
+    display: inline-block;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 10px;
+    width:300px;
+    box-sizing: border-box;
+    text-align: left;
+}
+.box{
+    display: inline-block;
+    padding: 0px;
+    margin: 10px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.divPara{
+    display: inline-block;
+    padding: 0px;
+    margin: 20px;
+    width: 40%;
+    box-sizing: border-box;
+    text-align: left;
+}
+.divIcon{
+    color: rgb(253, 137, 137);
+    display: inline-block;
+    padding: 0px;
+    margin: 0px;
+    width: auto;
+    box-sizing: border-box;
+    position: absolute;
+    right: 10%;
+}
+.p{
+    display: inline;
+    padding: 0px;
+    margin: 0px;
+}
+.underline{
+    font-size: large;
+    text-decoration-line: underline;
+    text-decoration-color:red;
+    
+}
+.button{
+    background-color: white;
+    border: 2px solid rgb(253, 137, 137);
+    border-radius: 20px;
+    color: rgb(253, 137, 137);
+}
+button{
+    background-color: white;
+    border: 1px solid rgb(215, 213, 213);
+    border-radius: 20px;
+    margin: 3px;
+} 
